@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="textMainLayout">Hello World!</string>
+    <string name="bTextMainLayout">Button</string>
+    <string name="t_change_before_click">This text must change after click</string>
+    <string name="b_click">Click</string>
+    <string name="t_after_click">Click was</string>
+    <string name="check_set">Check set</string>
+</resources>
